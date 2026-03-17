@@ -10,7 +10,7 @@ st.set_page_config(page_title="AI Disaster Command", page_icon="🚨", layout="w
 # 🔌 YOUR N8N WEBHOOK URL GOES HERE
 # Replace this string with the actual Test or Production URL from your n8n node
 # ==========================================
-N8N_WEBHOOK_URL = "https://your-n8n-domain.com/webhook/disaster-alert"
+N8N_WEBHOOK_URL = "https://danesh.app.n8n.cloud/webhook/7a37441b-7f5b-4872-8613-89a7a692684f"
 
 # --- LOCAL FALLBACK MOCK DATA ---
 city_options = {
